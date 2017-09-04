@@ -20,6 +20,7 @@ body {
   background-image: url({{ site.page-img }});
   background-attachment: fixed;
   {% endif %}
+  background:yellow;
 }
 p {
   line-height: 1.5;
