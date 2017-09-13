@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Flake it till you make i!!t
+title: Flake it till you makf
 subtitle: Excerpt from Soulshaping by Jeff sddssd
 bigimg: "http://images.all-free-download.com/images/graphiclarge/green_house_icon_312519.jpg"
-image: "https://i.pinimg.com/736x/7f/17/46/7f1746d28ae2f7b738adc16ad322214b--victorian-house-plans-craftsman-style-house-plans.jpg"
+image: https://i.pinimg.com/736x/7f/17/46/7f1746d28ae2f7b738adc16ad322214b--victorian-house-plans-craftsman-style-house-plans.jpg
 ---
 
 Under what circumstances should we step off a path? When is it essential that we finish what we start? If I bought a bag of peanuts and had an allergic reaction, no one would fault me if I threw it out. If I ended a relationship with a woman who hit me, no one would say that I had a commitment problem. But if I walk away from a seemingly secure route because my soul has other ideas, I am a flake?  
