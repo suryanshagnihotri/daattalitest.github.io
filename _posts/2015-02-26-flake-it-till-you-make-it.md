@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Flake it till you make it
-subtitle: Excerpt from Soulshaping by Jeff Brown
+subtitle: Excerpt from Soulshaping by Jeff Brownff
 bigimg: "https://i.pinimg.com/736x/7f/17/46/7f1746d28ae2f7b738adc16ad322214b--victorian-house-plans-craftsman-style-house-plans.jpg"
 ---
 
